@@ -2,7 +2,8 @@
 
 A web application combining **React + PHP** for a smooth and dynamic user experience.  
 
-Check out the live site here: [https://cvetovnya.ru/](https://cvetovnya.ru/) 🌐
+Check out the live site here: [https://cvetovnya.ru/](http://cvetovnya-flo.ru/) 🌐
+
 
 ---
 
